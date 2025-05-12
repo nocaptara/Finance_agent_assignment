@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+requests
+pandas
+numpy
+yfinance
+beautifulsoup4
+pyttsx3
+transformers
+sentence-transformers
+faiss-cpu
+streamlit
+whisper
+sounddevice
+wavio
